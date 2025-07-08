@@ -1,1 +1,2 @@
 This is the file that started on the server.
+Here is a new post I made.
